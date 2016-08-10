@@ -6,7 +6,7 @@ import java.util.HashSet;
 
 public class MainLocadora {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 	
 		//Note que falta tratar essas Exceptions:
 		//para corrigir: coloque um try/catch, ou throws no main.
